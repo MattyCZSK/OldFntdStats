@@ -208,25 +208,25 @@
                 {
                     "Price": 0,
                     "Range": 15,
-                    "Damage": 250,
+                    "Damage": 185,
                     "Cooldown": 0.75
                 },
                 {
                     "Price": 1800,
                     "Range": 18,
-                    "Damage": 375,
+                    "Damage": 200,
                     "Cooldown": 0.5
                 },
                 {
                     "Price": 3000,
                     "Range": 20,
-                    "Damage": 500,
+                    "Damage": 250,
                     "Cooldown": 0.35
                 },
                 {
                     "Price": 5000,
                     "Range": 20,
-                    "Damage": 750,
+                    "Damage": 350,
                     "Cooldown": 0.25
                 }
             ]
@@ -688,7 +688,7 @@
             },
             {
                 "Price": 9000,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 2500,
                 "Cooldown": 1
             }
@@ -971,7 +971,7 @@
         ]
     },
     "Baker Toy Chica": {
-        "Type": "Splash - Starter/Midgame",
+        "Type": "Splash - Starter/Midgame - Summon",
         "Image": "rbxassetid://18161347460",
         "Rarity": "Epic",
         "PlacePrice": 800,
@@ -1009,11 +1009,11 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slow",
+        "Type": "Slow - Starter/Midgame - Summer Presents",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1024,39 +1024,39 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 20,
+                "Damage": 150,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "Slow": 0.90,
+                "SlowTime": 3
             },
             {
                 "Price": 1200,
                 "Range": 16,
-                "Damage": 25,
+                "Damage": 200,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "Slow": 0.80,
+                "SlowTime": 3
             },
             {
                 "Price": 1600,
                 "Range": 17,
-                "Damage": 30,
+                "Damage": 250,
                 "Cooldown": 1,
                 "Slow": 0.7,
-                "SlowTime": 1
+                "SlowTime": 3
             },
             {
                 "Price": 2000,
                 "Range": 18,
-                "Damage": 30,
+                "Damage": 300,
                 "Cooldown": 0.8,
                 "Slow": 0.6,
-                "SlowTime": 1
+                "SlowTime": 3
             }
         ]
     },
     "Coco Boy": {
-        "Type": "Explosion",
+        "Type": "Splash - Midgame - Summer Presents",
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
@@ -1070,31 +1070,31 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 225,
+                "Damage": 1000,
                 "Cooldown": 4
             },
             {
                 "Price": 8000,
                 "Range": 15,
-                "Damage": 275,
+                "Damage": 1300,
                 "Cooldown": 3.5
             },
             {
                 "Price": 12000,
                 "Range": 18,
-                "Damage": 325,
+                "Damage": 1700,
                 "Cooldown": 3
             },
             {
                 "Price": 18000,
                 "Range": 25,
-                "Damage": 400,
+                "Damage": 2500,
                 "Cooldown": 3
             }
         ]
     },
     "Vendor Toy Chica": {
-        "Type": "Explosion",
+        "Type": "Splash - Midgame - Summer Pass",
         "Image": "rbxassetid://18256363652",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
@@ -1109,31 +1109,31 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 200,
+                "Damage": 1000,
                 "Cooldown": 5
             },
             {
                 "Price": 2000,
                 "Range": 19,
-                "Damage": 250,
+                "Damage": 1250,
                 "Cooldown": 5
             },
             {
                 "Price": 3500,
                 "Range": 22,
-                "Damage": 300,
+                "Damage": 1500,
                 "Cooldown": 4
             },
             {
                 "Price": 5000,
                 "Range": 25,
-                "Damage": 300,
+                "Damage": 1750,
                 "Cooldown": 3
             }
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Pierce",
+        "Type": "Pierce - Midgame - Summer Presents",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 7000,
@@ -1172,11 +1172,11 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Pierce",
+        "Type": "Pierce - Lategame - Summer Presents",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1186,31 +1186,31 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 400,
+                "Damage": 2000,
                 "Cooldown": 2
             },
             {
                 "Price": 12000,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 3000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 15000,
                 "Range": 18,
-                "Damage": 600,
+                "Damage": 4500,
                 "Cooldown": 1
             },
             {
                 "Price": 20000,
                 "Range": 20,
-                "Damage": 750,
+                "Damage": 6750,
                 "Cooldown": 0.5
             }
         ]
     },
     "Algae FredBear": {
-        "Type": "Single",
+        "Type": "Single - Midgame - Summer Pass End",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
         "PlacePrice": 3000,
@@ -1224,31 +1224,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
+                "Damage": 1500,
                 "Cooldown": 2
             },
             {
                 "Price": 5000,
                 "Range": 18,
-                "Damage": 350,
+                "Damage": 2300,
                 "Cooldown": 1.5
             },
             {
                 "Price": 7000,
                 "Range": 20,
-                "Damage": 500,
+                "Damage": 3000,
                 "Cooldown": 1.25
             },
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 650,
+                "Damage": 4500,
                 "Cooldown": 1
             }
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "Support",
+        "Type": "Support - Midgame - Summer Presents",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1265,33 +1265,33 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.15
             },
             {
                 "Price": 1200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.1
+                "RangeBoost": 1.25
             },
             {
                 "Price": 1400,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.15
+                "RangeBoost": 1.35
             },
             {
                 "Price": 1800,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.2
+                "RangeBoost": 1.45
             }
         ]
     },
     "Rad Freddy": {
-        "Type": "Single",
+        "Type": "Single - Midgame - Exclusive Summer Pack",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -1306,31 +1306,31 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 150,
+                "Damage": 1000,
                 "Cooldown": 3
             },
             {
                 "Price": 1200,
                 "Range": 35,
-                "Damage": 220,
+                "Damage": 1400,
                 "Cooldown": 3
             },
             {
                 "Price": 1500,
                 "Range": 40,
-                "Damage": 350,
+                "Damage": 1800,
                 "Cooldown": 2.5
             },
             {
                 "Price": 2000,
                 "Range": 45,
-                "Damage": 500,
+                "Damage": 2500,
                 "Cooldown": 2
             }
         ]
     },
     "Patriot Freddy": {
-        "Type": "Explosion",
+        "Type": "Splash - Starter - Limited",
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
         "PlacePrice": 300,
@@ -1345,31 +1345,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 250,
                 "Cooldown": 4
             },
             {
                 "Price": 500,
                 "Range": 18,
-                "Damage": 150,
+                "Damage": 350,
                 "Cooldown": 3.8
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 200,
+                "Damage": 500,
                 "Cooldown": 3.7
             },
             {
                 "Price": 1200,
                 "Range": 22,
-                "Damage": 250,
+                "Damage": 750,
                 "Cooldown": 3.5
             }
         ]
     },
     "SpringTrap": {
-        "Type": "Pierce",
+        "Type": "Pierce - Lategame - Season 2 Prize",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
         "PlacePrice": 300,
@@ -1389,7 +1389,7 @@
         ]
     },
     "Endo 03": {
-        "Type": "Single",
+        "Type": "Single - Midgame - Season 2 Clan Presents",
         "Image": "rbxassetid://18363471703",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -1403,31 +1403,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 70,
+                "Damage": 250,
                 "Cooldown": 1
             },
             {
                 "Price": 3000,
                 "Range": 18,
-                "Damage": 90,
+                "Damage": 350,
                 "Cooldown": 1
             },
             {
                 "Price": 4000,
                 "Range": 20,
-                "Damage": 130,
+                "Damage": 500,
                 "Cooldown": 0.75
             },
             {
                 "Price": 5000,
                 "Range": 20,
-                "Damage": 220,
+                "Damage": 750,
                 "Cooldown": 0.75
             }
         ]
     },
     "Phantom Foxy": {
-        "Type": "Single",
+        "Type": "Melee - Starter/Midgame - Phantom Presents",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1441,31 +1441,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 200,
                 "Cooldown": 1
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 80,
-                "Cooldown": 1
+                "Damage": 350,
+                "Cooldown": 0.9
             },
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 125,
-                "Cooldown": 0.75
+                "Damage": 425,
+                "Cooldown": 0.8
             },
             {
                 "Price": 3000,
                 "Range": 20,
-                "Damage": 200,
-                "Cooldown": 0.75
+                "Damage": 500,
+                "Cooldown": 0.7
             }
         ]
     },
     "Phantom Chica": {
-        "Type": "Explosion",
+        "Type": "Splash - Lategame - Summon",
         "Image": "rbxassetid://18356356760",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1479,31 +1479,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 500,
                 "Cooldown": 1.75
             },
             {
                 "Price": 20000,
                 "Range": 17,
-                "Damage": 350,
+                "Damage": 900,
                 "Cooldown": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 19,
-                "Damage": 400,
+                "Damage": 1300,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
                 "Range": 21,
-                "Damage": 625,
+                "Damage": 1625,
                 "Cooldown": 1
             }
         ]
     },
     "Phantom Freddy": {
-        "Type": "Continuous",
+        "Type": "Continuous - Lategame - Endless 3",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1541,7 +1541,7 @@
         ]
     },
     "Phantom Balloon Boy": {
-        "Type": "Nuke",
+        "Type": "Splash - Midgame - Phantom Presents",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
         "PlacePrice": 7500,
@@ -1555,31 +1555,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 600,
+                "Damage": 1500,
                 "Cooldown": 4
             },
             {
                 "Price": 10000,
                 "Range": 18,
-                "Damage": 700,
+                "Damage": 2500,
                 "Cooldown": 3.5
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 800,
+                "Damage": 3500,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 5000,
                 "Cooldown": 3
             }
         ]
     },
     "Phantom Gold Freddy": {
-        "Type": "Single",
+        "Type": "Single - Midgame - Phantom Presents",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
         "PlacePrice": 3000,
@@ -1593,35 +1593,35 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 1000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 4000,
                 "Range": 18,
-                "Damage": 300,
+                "Damage": 1500,
                 "Cooldown": 1.25
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 2500,
                 "Cooldown": 1.25
             },
             {
                 "Price": 9000,
-                "Range": 20,
-                "Damage": 550,
+                "Range": 25,
+                "Damage": 3000,
                 "Cooldown": 1
             }
         ]
     },
     "FazCade": {
-        "Type": "Farm",
+        "Type": "Farm - Midgame - Summon",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
         "PlacePrice": 1000,
-        "Max": 3,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1634,28 +1634,28 @@
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 50
+                "Farm": 250
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 100
+                "Farm": 500
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 200
+                "Farm": 1000
             },
             {
                 "Price": 3000,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 300
+                "Farm": 2000
             }
         ]
     },
@@ -1736,11 +1736,11 @@
         ]
     },
     "Amalgam": {
-        "Type": "Continuous Slow",
+        "Type": "Continuous Slow - Midgame - Phantom Presents",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1752,33 +1752,33 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.8
+                "Slow": 0.7
             },
             {
                 "Price": 2400,
                 "Range": 17,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.7
+                "Slow": 0.6
             },
             {
                 "Price": 3000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.6
+                "Slow": 0.5
             },
             {
                 "Price": 4000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.5
+                "Slow": 0.4
             }
         ]
     },
     "Phantom Puppet": {
-        "Type": "Pierce",
+        "Type": "Pierce - Lategame - Premium Season 2 Pass End",
         "Image": "rbxassetid://18363546528",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1792,35 +1792,35 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 3500,
                 "Cooldown": 2
             },
             {
                 "Price": 17000,
                 "Range": 17,
-                "Damage": 800,
+                "Damage": 5000,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 19,
-                "Damage": 1000,
+                "Damage": 7800,
                 "Cooldown": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 21,
-                "Damage": 1100,
+                "Damage": 10000,
                 "Cooldown": 1
             }
         ]
     },
     "Spring Bonnie": {
-        "Type": "Support",
+        "Type": "Support - Midgame - Premium Season 2 Pass",
         "Image": "rbxassetid://18364574191",
         "Rarity": "Secret",
         "PlacePrice": 1500,
-        "Max": 2,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1833,33 +1833,33 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.1
+                "DamageBoost": 1.3
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.15
+                "DamageBoost": 1.45
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.22
+                "DamageBoost": 1.6
             },
             {
                 "Price": 3000,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.3
+                "DamageBoost": 1.75
             }
         ]
     },
     "Bounded Shadow": {
-        "Type": "Pierce",
+        "Type": "Pierce - Lategame - Summon",
         "Image": "rbxassetid://18363555442",
         "Rarity": "Nightmare",
         "PlacePrice": 12500,
@@ -1873,31 +1873,31 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 550,
+                "Damage": 2500,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 18,
-                "Damage": 600,
+                "Damage": 3400,
                 "Cooldown": 1.5
             },
             {
                 "Price": 17000,
                 "Range": 20,
-                "Damage": 1100,
+                "Damage": 4200,
                 "Cooldown": 1.5
             },
             {
                 "Price": 22000,
                 "Range": 22,
-                "Damage": 1250,
+                "Damage": 5100,
                 "Cooldown": 1
             }
         ]
     },
     "Sentinel Bonnie": {
-        "Type": "Continuous",
+        "Type": "Continuous - Midgame - Exclusive Pack 2",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Secret",
         "PlacePrice": 4000,
@@ -1912,31 +1912,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 25,
+                "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 5000,
                 "Range": 17,
-                "Damage": 30,
+                "Damage": 75,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 35,
+                "Damage": 150,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 45,
+                "Damage": 250,
                 "Cooldown": 0.05
             }
         ]
     },
     "War Machine Foxy": {
-        "Type": "Continuous",
+        "Type": "Continuous - Midgame - Season 2 Clan Presents",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
         "PlacePrice": 4000,
@@ -1951,31 +1951,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 65,
                 "Cooldown": 0.05
             },
             {
                 "Price": 5000,
                 "Range": 15,
-                "Damage": 35,
+                "Damage": 95,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 40,
+                "Damage": 150,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 300,
                 "Cooldown": 0.05
             }
         ]
     },
     "Sniper Cupcake": {
-        "Type": "Single",
+        "Type": "Single - Midgame - Summon",
         "Image": "rbxassetid://18364281117",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1990,35 +1990,35 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 70,
+                "Damage": 300,
                 "Cooldown": 3
             },
             {
                 "Price": 1200,
                 "Range": 35,
-                "Damage": 120,
+                "Damage": 420,
                 "Cooldown": 3
             },
             {
                 "Price": 1500,
                 "Range": 40,
-                "Damage": 200,
+                "Damage": 600,
                 "Cooldown": 2.5
             },
             {
                 "Price": 2000,
                 "Range": 45,
-                "Damage": 250,
+                "Damage": 750,
                 "Cooldown": 2
             }
         ]
     },
     "Witch Toy Chica": {
-        "Type": "Poison",
+        "Type": "Poison - Starter - Starter Pack 2",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2029,39 +2029,39 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 4,
-                "Poison": 10,
+                "Poison": 100,
                 "PoisonLength": 3
             },
             {
                 "Price": 800,
                 "Range": 17,
-                "Damage": 125,
+                "Damage": 300,
                 "Cooldown": 3,
-                "Poison": 15,
+                "Poison": 150,
                 "PoisonLength": 3
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 150,
+                "Damage": 400,
                 "Cooldown": 3,
-                "Poison": 20,
+                "Poison": 200,
                 "PoisonLength": 3
             },
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 200,
+                "Damage": 500,
                 "Cooldown": 2,
-                "Poison": 25,
+                "Poison": 250,
                 "PoisonLength": 3
             }
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Continuous Slow",
+        "Type": "Continuous Slow - Lategame - Limited",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -2076,57 +2076,57 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 40,
+                "Damage": 100,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
                 "Slow": 0.9,
-                "SlowTime": 1
+                "SlowTime": 3
             },
             {
                 "Price": 30000,
                 "Range": 20,
-                "Damage": 45,
+                "Damage": 150,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
+                "Slow": 0.85,
+                "SlowTime": 3
             },
             {
                 "Price": 40000,
                 "Range": 25,
-                "Damage": 50,
+                "Damage": 200,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
+                "Slow": 0.8,
+                "SlowTime": 3
             },
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 55,
+                "Damage": 250,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
+                "Slow": 0.75,
+                "SlowTime": 3
             },
             {
                 "Price": 75000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 300,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
                 "Slow": 0.7,
-                "SlowTime": 1
+                "SlowTime": 3
             }
         ]
     },
     "Major Freddy": {
-        "Type": "Single",
+        "Type": "Single - Midgame - Military Presents",
         "Image": "rbxassetid://18665224476",
         "Rarity": "Rare",
         "PlacePrice": 1000,
@@ -2140,7 +2140,7 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 20,
+                "Damage": 50,
                 "Cooldown": 0.5,
                 "Ammo": 30,
                 "ReloadTime": 1.5
@@ -2148,7 +2148,7 @@
             {
                 "Price": 1400,
                 "Range": 20,
-                "Damage": 25,
+                "Damage": 75,
                 "Cooldown": 0.4,
                 "Ammo": 30,
                 "ReloadTime": 1.5
@@ -2156,7 +2156,7 @@
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 30,
+                "Damage": 100,
                 "Cooldown": 0.3,
                 "Ammo": 30,
                 "ReloadTime": 1.5
@@ -2164,15 +2164,15 @@
             {
                 "Price": 2500,
                 "Range": 25,
-                "Damage": 40,
-                "Cooldown": 0.3,
+                "Damage": 125,
+                "Cooldown": 0.2,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             }
         ]
     },
     "Enforcer Bonnie": {
-        "Type": "Continuous",
+        "Type": "Continuous - Lategame - Military Presents",
         "Image": "rbxassetid://18673234413",
         "Rarity": "Secret",
         "PlacePrice": 10000,
@@ -2186,31 +2186,31 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.25,
+                "Damage": 150,
+                "Cooldown": 0.05,
                 "Ammo": 50,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage":45,
-                "Cooldown": 0.125,
+                "Damage": 250,
+                "Cooldown": 0.05,
                 "Ammo": 50,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 20000,
                 "Range": 23,
-                "Damage": 55,
-                "Cooldown": 0.1,
+                "Damage": 350,
+                "Cooldown": 0.05,
                 "Ammo": 60,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 26,
-                "Damage": 70,
+                "Damage": 500,
                 "Cooldown": 0.05,
                 "Ammo": 60,
                 "ReloadTime": 1.5
@@ -2218,7 +2218,7 @@
         ]
     },
     "Mercenary Foxy": {
-        "Type": "Continuous",
+        "Type": "Continuous - Midgame - Military Presents",
         "Image": "rbxassetid://18673129884",
         "Rarity": "Mythic",
         "PlacePrice": 2500,
@@ -2232,31 +2232,31 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 20,
-                "Cooldown": 0.25,
+                "Damage": 75,
+                "Cooldown": 0.05,
                 "Ammo": 50,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 3500,
                 "Range": 18,
-                "Damage": 20,
-                "Cooldown": 0.125,
+                "Damage": 150,
+                "Cooldown": 0.05,
                 "Ammo": 50,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 5000,
                 "Range": 20,
-                "Damage": 25,
-                "Cooldown": 0.1,
+                "Damage": 200,
+                "Cooldown": 0.05,
                 "Ammo": 60,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 7500,
                 "Range": 23,
-                "Damage": 25,
+                "Damage": 300,
                 "Cooldown": 0.05,
                 "Ammo": 60,
                 "ReloadTime": 1.5
@@ -2264,7 +2264,7 @@
         ]
     },
     "Cupcake Tank": {
-        "Type": "Summoner",
+        "Type": "Single + Summoner - Midgame - Military Pass",
         "Image": "rbxassetid://18673630095",
         "Rarity": "Secret",
         "PlacePrice": 2000,
@@ -2279,10 +2279,10 @@
             {
                 "Price": 0,
                 "Range": 8,
-                "Damage": 100,
+                "Damage": 3500,
                 "Cooldown": 5,
-                "SummonTime": 40,
-                "Health": 100,
+                "SummonTime": 60,
+                "Health": 10000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2290,10 +2290,10 @@
             {
                 "Price": 2500,
                 "Range": 10,
-                "Damage": 150,
-                "Cooldown": 4,
-                "SummonTime": 38,
-                "Health": 50,
+                "Damage": 4500,
+                "Cooldown": 5,
+                "SummonTime": 60,
+                "Health": 20000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2301,10 +2301,10 @@
             {
                 "Price": 3000,
                 "Range": 12,
-                "Damage": 200,
-                "Cooldown": 2,
-                "SummonTime": 37,
-                "Health": 250,
+                "Damage": 6000,
+                "Cooldown": 5,
+                "SummonTime": 60,
+                "Health": 30000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2312,10 +2312,10 @@
             {
                 "Price": 4000,
                 "Range": 14,
-                "Damage": 250,
-                "Cooldown": 1,
-                "SummonTime": 36,
-                "Health": 400,
+                "Damage": 7500,
+                "Cooldown": 5,
+                "SummonTime": 60,
+                "Health": 50000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2323,10 +2323,10 @@
         ]
     },
     "Commando Endo": {
-        "Type": "Continuous",
+        "Type": "Continuous + Summoner - Starter - Exclusive Military Pack",
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
-        "PlacePrice": 600,
+        "PlacePrice": 500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2338,67 +2338,67 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 15,
+                "Damage": 25,
                 "Cooldown": 0.25,
-                "SummonTime": 35,
+                "SummonTime": 4,
                 "Health": 20,
                 "WalkSpeed": 8,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 14,
-                "SummonDamage": 10,
+                "SummonRange": 30,
+                "SummonDamage": 100,
                 "SummonCooldown": 0.25
             },
             {
-                "Price": 1500,
+                "Price": 1000,
                 "Range": 18,
-                "Damage": 20,
+                "Damage": 35,
                 "Cooldown": 0.25,
-                "SummonTime": 34,
+                "SummonTime": 4,
                 "Health": 30,
                 "WalkSpeed": 8,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 16,
-                "SummonDamage": 15,
+                "SummonRange": 30,
+                "SummonDamage": 150,
                 "SummonCooldown": 0.25
             },
             {
-                "Price": 2000,
+                "Price": 1500,
                 "Range": 20,
-                "Damage": 25,
+                "Damage": 50,
                 "Cooldown": 0.25,
-                "SummonTime": 33,
+                "SummonTime": 4,
                 "Health": 50,
                 "WalkSpeed": 9,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 24,
-                "SummonDamage": 25,
+                "SummonRange": 30,
+                "SummonDamage": 250,
                 "SummonCooldown": 0.25
             },
             {
-                "Price": 3000,
+                "Price": 2000,
                 "Range": 23,
-                "Damage": 30,
+                "Damage": 100,
                 "Cooldown": 0.25,
-                "SummonTime": 32,
+                "SummonTime": 4,
                 "Health": 75,
                 "WalkSpeed": 10,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 30,
-                "SummonDamage": 35,
+                "SummonDamage": 350,
                 "SummonCooldown": 0.25
             }
         ]
     },
     "Rocketeer Mangle": {
-        "Type": "Explosion",
+        "Type": "Splash - Midgame - Military Pass End",
         "Image": "rbxassetid://18673926504",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -2413,35 +2413,35 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 300,
+                "Damage": 2000,
                 "Cooldown": 3
             },
             {
                 "Price": 7000,
                 "Range": 15,
-                "Damage": 450,
+                "Damage": 2500,
                 "Cooldown": 2.5
             },
             {
                 "Price": 10000,
                 "Range": 17,
-                "Damage": 600,
+                "Damage": 3000,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 750,
+                "Damage": 3500,
                 "Cooldown": 1.5
             }
         ]
     },
     "Valkyrie Chica": {
-        "Type": "Continuous",
+        "Type": "Continuous - Lategame - Military Present",
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2452,31 +2452,31 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 40,
+                "Damage": 500,
                 "Cooldown": 0.05
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 50,
+                "Damage": 650,
                 "Cooldown": 0.05
             },
             {
                 "Price": 20000,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 700,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
                 "Range": 25,
-                "Damage": 80,
+                "Damage": 850,
                 "Cooldown": 0.05
             }
         ]
     },
     "Artillery Puppet": {
-        "Type": "Explosion",
+        "Type": "Splash - Midgame - Military Presents",
         "Image": "rbxassetid://18672617524",
         "Rarity": "Epic",
         "PlacePrice": 1500,
@@ -2490,32 +2490,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 40,
-                "Damage": 200,
+                "Range": 45,
+                "Damage": 500,
                 "Cooldown": 4
             },
             {
                 "Price": 2000,
-                "Range": 40,
-                "Damage": 300,
+                "Range": 45,
+                "Damage": 1000,
                 "Cooldown": 3.5
             },
             {
                 "Price": 2500,
-                "Range": 40,
-                "Damage": 400,
+                "Range": 45,
+                "Damage": 1500,
                 "Cooldown": 3
             },
             {
                 "Price": 3000,
-                "Range": 40,
-                "Damage": 500,
+                "Range": 45,
+                "Damage": 2000,
                 "Cooldown": 3
             }
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Melee",
+        "Type": "Melee - Starter - Limited",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -2530,31 +2530,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 16,
-                "Damage": 120,
+                "Damage": 400,
                 "Cooldown": 0.7
             },
             {
                 "Price": 1200,
                 "Range": 17,
-                "Damage": 140,
+                "Damage": 600,
                 "Cooldown": 0.6
             },
             {
                 "Price": 1600,
                 "Range": 18,
-                "Damage": 160,
+                "Damage": 800,
                 "Cooldown": 0.5
             },
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 180,
+                "Damage": 1000,
                 "Cooldown": 0.4
             }
         ]
