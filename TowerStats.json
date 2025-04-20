@@ -2515,7 +2515,7 @@
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Melee - Starter - Limited",
+        "Type": "Cone AoE Melee - Starter - Limited",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
