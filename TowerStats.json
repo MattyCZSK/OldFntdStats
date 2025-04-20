@@ -1368,43 +1368,6 @@
             }
         ]
     },
-         "Type": "Pierce - Lategame - Season 2 Prize",
-        "Image": "rbxassetid://18356146630",
-        "Rarity": "Nightmare",
-        "PlacePrice": 20000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 5000,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 30000,
-                "Range": 18,
-                "Damage": 7000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 40000,
-                "Range": 20,
-                "Damage": 11000,
-                "Cooldown": 0.75
-            },
-            {
-                "Price": 50000,
-                "Range": 20,
-                "Damage": 13000,
-                "Cooldown": 0.5
-            }
-        ]
-    },
     "Endo 03": {
         "Type": "Single - Midgame - Season 2 Clan Presents",
         "Image": "rbxassetid://18363471703",
